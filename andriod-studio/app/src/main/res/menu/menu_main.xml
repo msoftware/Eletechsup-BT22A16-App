@@ -1,0 +1,31 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools" tools:context=".MainActivity">
+    <item
+        android:id="@+id/connectBluetooth"
+        android:title="@string/connectBluetooth"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/disconnectBluetooth"
+        android:title="@string/disconnectBluetooth"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/settings"
+        android:title="@string/settings"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item android:id="@+id/connected"
+        app:showAsAction="always"
+        android:title=""
+        android:icon="@drawable/connected"/>
+
+    <item android:id="@+id/disconnected"
+        app:showAsAction="always"
+        android:title=""
+        android:icon="@drawable/disconnected"/>
+</menu>
