@@ -13,3 +13,4 @@ Compatible with HC-05/06 slave mode, support Bluetooth SPP protocol, transmissio
 
 ![eletechsup BT22A16 16 Channel Bluetooth Relay board](https://raw.githubusercontent.com/msoftware/Eletechsup-BT22A16-App/master/pictures/IMG_20190701_203746.jpg)
 
+![eletechsup BT22A16 Bluetooth module BK3231](https://raw.githubusercontent.com/msoftware/Eletechsup-BT22A16-App/master/pictures/IMG_20190701_203822.jpg)
