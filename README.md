@@ -15,6 +15,8 @@ Compatible with HC-05/06 slave mode, support Bluetooth SPP protocol, transmissio
 
 ![eletechsup BT22A16 Bluetooth module BK3231](https://raw.githubusercontent.com/msoftware/Eletechsup-BT22A16-App/master/pictures/IMG_20190701_203822.jpg)
 
+more pictures here: https://github.com/msoftware/Eletechsup-BT22A16-App/tree/master/pictures
+
 # Android App
 This github.com repository contains a simple test App written in Java for Android for eletechsup BT22A16 16 Channel Bluetooth Relay.
 
