@@ -14,3 +14,8 @@ Compatible with HC-05/06 slave mode, support Bluetooth SPP protocol, transmissio
 ![eletechsup BT22A16 16 Channel Bluetooth Relay board](https://raw.githubusercontent.com/msoftware/Eletechsup-BT22A16-App/master/pictures/IMG_20190701_203746.jpg)
 
 ![eletechsup BT22A16 Bluetooth module BK3231](https://raw.githubusercontent.com/msoftware/Eletechsup-BT22A16-App/master/pictures/IMG_20190701_203822.jpg)
+
+# Android App
+This github.com repository contains a simple test App written in Java for Android for eletechsup BT22A16 16 Channel Bluetooth Relay.
+
+The board is based on BK3231 Bluetooth Module Replace HC-05/06 Wireless Serial Communication PCB SPP-C connected to DC 12V - 16 Channel Bluetooth Relay Board. 
