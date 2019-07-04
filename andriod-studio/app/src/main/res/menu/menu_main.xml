@@ -13,12 +13,6 @@
         android:orderInCategory="100"
         app:showAsAction="never" />
 
-    <item
-        android:id="@+id/settings"
-        android:title="@string/settings"
-        android:orderInCategory="100"
-        app:showAsAction="never" />
-
     <item android:id="@+id/connected"
         app:showAsAction="always"
         android:title=""
